@@ -7,3 +7,4 @@ Jeg la også med notebooken til han med i repoen her.
 
 https://ds-amit.medium.com/fine-tune-layoutlmv3-with-your-custom-data-7435f6069677
 
+https://www.kaggle.com/code/akarshu121/document-ai-finetuning-1-funsd-on-layoutlmv3
