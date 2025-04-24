@@ -26,3 +26,9 @@ Artikkel hvordan man skal anvende LayoutLMv3 for fine-tuning:
 https://ubiai.tools/fine-tuning-layoutlmv3-customizing-layout-recognition-for-diverse-document-types/
 
 
+Dette repositoriet inneholder | filer som viser prosessen og utviklingen av modellen vår.
+- Dataset_prosessor.ipnyb | Denne filen prosseserer KVP10K datasettet til et huggingface format som layoutmodellen kan bruke.
+- LayoutMv3_KVP10k_ferdigstilt_V2.ipnyb | Denne filen er den finjusterte modellen vi trente på KVP10K datasettet.
+- LayoutMv_KVP10K_Relation_mode_final.ipnyb | Denne filer er den endelige layoutmodellen med et relasjonslag.
+- Relation_model_final.ipnyb | Denne filen er det siste forsøket vi hadde før vi byttet løp til den endelige løsningen.
+
