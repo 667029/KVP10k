@@ -10,4 +10,5 @@ Dette repositoriet inneholder filer som viser prosessen og utviklingen av modell
 - LayoutLMv3_kvp10k_Relation_layer.ipynb | Denne filen er et av forsøkene vi gjorde hvor vi brukte Pytouch
 - Relation_model_final.ipnyb | Denne filen er det siste forsøket vi hadde før vi byttet løp til den endelige løsningen hvor bi brukte Tensorflow.
 
-https://github.com/IBM/KVP10k
+## Github repository for KVP10k-datasettet
+- https://github.com/IBM/KVP10k
