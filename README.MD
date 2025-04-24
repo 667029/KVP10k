@@ -1,5 +1,5 @@
 # LayoutMv3 modell fintrent på KVP10K med relasjonslag
-Dette repositoriet inneholder | filer som viser prosessen og utviklingen av modellen vår.
+Dette repositoriet inneholder filer som viser prosessen og utviklingen av modellen vår.
 
 ## Endelig resultat
 - Dataset_prosessor.ipnyb | Denne filen prosseserer KVP10K datasettet til et huggingface format som layoutmodellen kan bruke.
