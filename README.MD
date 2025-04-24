@@ -12,3 +12,13 @@ Dette repositoriet inneholder filer som viser prosessen og utviklingen av modell
 
 ## Github repository for KVP10k-datasettet
 - https://github.com/IBM/KVP10k
+
+
+
+## Kjøring av prosjektet
+Prosjektet kan kjøres på en enhet som støtter jupyter filer eller via colab
+
+rekkefølge:
+- Dataset_processor.ipnyb
+- LayoytMvl3_KVP10k_ferdigstilt_V2.ipnyb
+- LayoytMvl3_KVP10K_Relation_Model_Final.ipnyb
